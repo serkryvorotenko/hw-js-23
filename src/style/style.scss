@@ -1,0 +1,36 @@
+main {
+    background: antiquewhite;
+    padding: 30px;
+}
+
+.content {
+    display: flex;
+    max-width: 100%;
+    width: 100%;
+    justify-content: space-between;
+    gap: 30px;
+
+}
+
+.header  {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+    font-size: 30px;
+    color: green;
+    gap: 80px;
+}
+
+.aside {
+    max-width: 200px;
+    width: 100%;
+
+}
+
+.container {
+    width: 100%;
+}
+
+
+
